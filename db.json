@@ -1,0 +1,461 @@
+{
+  "posts": [
+    {
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "employname": "saaa",
+      "team": "sad",
+      "phonenumeber": "09679679989",
+      "type": "jr"
+    },
+    {
+      "id": "3",
+      "employname": "saaa",
+      "team": "sad",
+      "phonenumeber": "09679679989",
+      "type": "jr"
+    },
+    {
+      "id": "sai@yopmail.com",
+      "employname": "09679679989",
+      "team": "uy",
+      "phonenumeber": "09679679989",
+      "type": "uy"
+    },
+    {
+      "id": "4",
+      "employname": "bhanu",
+      "team": "sda",
+      "phonenumeber": "86865574456",
+      "type": "sr"
+    },
+    {
+      "id": "1",
+      "employname": "sayu",
+      "team": "sda",
+      "phonenumeber": "09876545555",
+      "type": "sr"
+    },
+    {
+      "id": "1",
+      "employname": "sayu",
+      "team": "sda",
+      "type": "jr"
+    },
+    {
+      "id": "1",
+      "employname": "sayu",
+      "team": "sda",
+      "type": "jr"
+    }
+  ],
+  "users": [
+    {
+      "id": "8c18",
+      "username": "sai@yopmail.com",
+      "password": "123",
+      "numbers": 123,
+      "gender": "other",
+      "employeactive": "diactive"
+    },
+    {
+      "id": "2056",
+      "username": "krishnavamsi.nalluri@snaddevelopers.com",
+      "password": "123",
+      "numbers": 123,
+      "gender": "male",
+      "employeactive": "active"
+    },
+    {
+      "id": "21f8",
+      "username": "vamsi@123",
+      "password": "123",
+      "numbers": 123,
+      "gender": "other",
+      "employeactive": "diactive"
+    },
+    {
+      "id": "1fd0",
+      "username": "bhanu@123",
+      "password": "123",
+      "numbers": 123,
+      "gender": "female",
+      "employeactive": "active"
+    },
+    {
+      "id": "1dae",
+      "username": "saipavan@yopmail.com",
+      "password": "123",
+      "numbers": 123,
+      "gender": "male",
+      "employeactive": "active"
+    },
+    {
+      "id": "345e",
+      "username": "vamsi",
+      "password": "123",
+      "numbers": 98765,
+      "gender": "male",
+      "employeactive": "diactive"
+    },
+    {
+      "id": "5782",
+      "username": "bhanu@123",
+      "password": "123",
+      "numbers": 22
+    }
+  ],
+  "newproducts": [
+    {
+      "id": "1",
+      "title": "iphne",
+      "pic": "https://www.bing.com/th?id=OPAC.a8CS9K0Gq1wDWw474C474&o=5&pid=21.1&w=160&h=209&rs=1&qlt=100&dpr=1&c=8&pcl=f5f5f5",
+      "price": "11"
+    },
+    {
+      "id": "2",
+      "title": "iphone 16",
+      "pic": "https://www.bing.com/th?id=OPAC.XfCE%2bl8Y%2fcaGDw474C474&o=5&pid=21.1&w=160&h=217&rs=1&qlt=100&dpr=1&c=8&pcl=f5f5f5",
+      "price": "10000"
+    }
+  ],
+  "singin": [
+    {
+      "id": "45aa",
+      "username": "vamsi",
+      "fristname": ""
+    },
+    {
+      "id": "e1d1",
+      "username": "vamsi",
+      "password": "126"
+    },
+    {
+      "id": "270a",
+      "username": "vamsi",
+      "password": "126"
+    },
+    {
+      "id": "a6dc",
+      "username": "sai",
+      "password": "123"
+    },
+    {
+      "id": "e224",
+      "username": "saibabu",
+      "password": "123"
+    },
+    {
+      "id": "b8fe",
+      "username": "sai@12",
+      "password": "123"
+    },
+    {
+      "id": "bf7c",
+      "username": "sai@12",
+      "password": "123"
+    },
+    {
+      "id": "2fb6",
+      "username": "sai@12",
+      "password": "123"
+    },
+    {
+      "id": "d418",
+      "username": "sai@12",
+      "password": "123",
+      "role": "employee"
+    },
+    {
+      "id": "c778",
+      "username": "vamsi",
+      "password": "123",
+      "role": "manager"
+    },
+    {
+      "id": "e68d",
+      "username": "saibabu",
+      "password": "123",
+      "role": "employee"
+    },
+    {
+      "id": "ebca",
+      "username": "saibabu",
+      "password": "123",
+      "role": "employee"
+    },
+    {
+      "id": "1e01",
+      "username": "bhanu",
+      "password": "123"
+    },
+    {
+      "id": "c657",
+      "username": "bhanu",
+      "password": "123"
+    },
+    {
+      "id": "4758",
+      "username": "bhanu",
+      "password": "123"
+    },
+    {
+      "id": "b257",
+      "username": "saibabu",
+      "password": "manager"
+    },
+    {
+      "id": "27b4",
+      "username": "saibabu",
+      "password": "employee"
+    },
+    {
+      "id": "4f4d",
+      "username": "saibabu",
+      "password": "123",
+      "role": "employee"
+    },
+    {
+      "id": "385e",
+      "username": "nani",
+      "password": "125",
+      "role": "Employee"
+    },
+    {
+      "id": "d8a0",
+      "username": "",
+      "password": "",
+      "role": ""
+    },
+    {
+      "id": "6913",
+      "username": "",
+      "password": "",
+      " PhoneNumber": ""
+    },
+    {
+      "id": "6223",
+      "username": "vamsi@123",
+      "password": "123",
+      " PhoneNumber": ""
+    },
+    {
+      "id": "3239",
+      "username": "sai",
+      "password": "123",
+      " PhoneNumber": ""
+    },
+    {
+      "id": "8ebb",
+      "username": "vamsi@1430",
+      "password": "123",
+      " PhoneNumber": "12"
+    },
+    {
+      "id": "37d0",
+      "username": "",
+      "password": "123",
+      " PhoneNumber": ""
+    },
+    {
+      "id": "e9c6",
+      "username": "",
+      "password": "",
+      " PhoneNumber": ""
+    },
+    {
+      "id": "f314",
+      "username": "",
+      "password": "",
+      " PhoneNumber": ""
+    },
+    {
+      "id": "13e7",
+      "firstName": "Vamsi",
+      "lastName": "Ss",
+      "Email": "sai@yopmail.com",
+      "phoneNumber": "09679679989",
+      "passWord": "ww",
+      "confirmPassWord": "w"
+    },
+    {
+      "id": "7a02",
+      "firstName": "Vamsi",
+      "lastName": "Ss",
+      "Email": "sai@yopmail.com",
+      "phoneNumber": "09679679989",
+      "passWord": "ww",
+      "confirmPassWord": "w"
+    },
+    {
+      "id": "f2ab",
+      "firstName": "Sripathi",
+      "lastName": "Sripathi",
+      "Email": "sai@yopmail.com",
+      "phoneNumber": "09679679989",
+      "passWord": "ww",
+      "confirmPassWord": "w"
+    },
+    {
+      "id": "eefc",
+      "firstName": "Sripathi",
+      "lastName": "Sripathi",
+      "Email": "sai@yopmail.com",
+      "phoneNumber": "09679679989",
+      "passWord": "ww",
+      "confirmPassWord": "w"
+    },
+    {
+      "id": "8725",
+      "firstName": "ramu",
+      "lastName": "sai",
+      "Email": "ramu@gmail.com",
+      "phoneNumber": "2344",
+      "passWord": "123",
+      "confirmPassWord": "123"
+    },
+    {
+      "id": "3c80",
+      "firstName": "ramu",
+      "lastName": "sai",
+      "Email": "ramu@gmail.com",
+      "phoneNumber": "2344",
+      "passWord": "123",
+      "confirmPassWord": "123"
+    },
+    {
+      "id": "e4a2",
+      "firstName": "ramu",
+      "lastName": "sai",
+      "Email": "ramu@gmail.com",
+      "phoneNumber": "2344",
+      "passWord": "123",
+      "confirmPassWord": "123"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "products": [
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "15",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": "16",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": "17",
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": "18",
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": "19",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": "20",
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": "2",
+      "title": "iphone 16",
+      "image": "https://www.bing.com/th?id=OPAC.XfCE%2bl8Y%2fcaGDw474C474&o=5&pid=21.1&w=160&h=217&rs=1&qlt=100&dpr=1&c=8&pcl=f5f5f5",
+      "price": "10000"
+    },
+    {
+      "id": "2",
+      "title": "iphone 16",
+      "image": "https://www.bing.com/th?id=OPAC.XfCE%2bl8Y%2fcaGDw474C474&o=5&pid=21.1&w=160&h=217&rs=1&qlt=100&dpr=1&c=8&pcl=f5f5f5",
+      "price": "10000"
+    },
+    {
+      "id": "10",
+      "title": "Laptop",
+      "image": "https://th.bing.com/th/id/OIP.eJ0Y_Lxm8QvSkX-dva6OZAHaEx?w=260&h=180&c=7&r=0&o=5&pid=1.7",
+      "price": "100000"
+    },
+    {
+      "id": "10",
+      "title": "Laptop",
+      "image": "https://th.bing.com/th/id/OIP.eJ0Y_Lxm8QvSkX-dva6OZAHaEx?w=260&h=180&c=7&r=0&o=5&pid=1.7",
+      "price": "100000"
+    },
+    {
+      "id": "10",
+      "title": "Laptop",
+      "image": "https://th.bing.com/th/id/OIP.eJ0Y_Lxm8QvSkX-dva6OZAHaEx?w=260&h=180&c=7&r=0&o=5&pid=1.7",
+      "price": "100000"
+    }
+  ]
+}

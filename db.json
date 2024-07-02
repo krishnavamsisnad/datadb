@@ -457,5 +457,507 @@
       "image": "https://th.bing.com/th/id/OIP.eJ0Y_Lxm8QvSkX-dva6OZAHaEx?w=260&h=180&c=7&r=0&o=5&pid=1.7",
       "price": "100000"
     }
-  ]
+  ],
+  "seat":[
+    {
+      "id":"1",
+      "seats":20,
+      "seatstaus":"booked",
+      "sleper":10,
+      "seat":20,
+      "seatid":"a1"
+  }
+],
+  "busdata":[
+    {
+      "id":"1",
+      "busname":"LVP",
+      "From":"Hyderabad",
+      "To":"Dehil",
+      "price":"10000",
+      "bustype":"a.c",
+      "starttime":"6:00",
+      "endtime":"12:00"
+    },
+    {
+      "id":"2",
+      "busname":"Vamsi",
+      "From":"Dehil",
+      "To":"Hyderabad",
+      "price":"100",
+      "bustype":"a.c",
+      "starttime":"6:00",
+      "endtime":"12:00"
+    },
+    {
+      "id":"3",
+      "busname":"nani",
+      "From":"Dehil",
+      "To":"Benguluru",
+      "price":"100",
+      "bustype":"non a.c",
+      "starttime":"6:00",
+      "endtime":"12:00"
+    },
+    {
+      "id":"4",
+      "busname":"sai ram Travels",
+      "From":"Vijayawada",
+      "To":"Hyderabad",
+      "price":"100",
+      "bustype":"non a.c",
+      "starttime":"6:00",
+      "endtime":"12:00"
+    },
+    {
+      "id":"5",
+      "busname":"Sai ganesh",
+      "From":"Eluru",
+      "To":"Hyderabad",
+      "price":"100",
+      "bustype":"non a.c",
+      "starttime":"6:00",
+      "endtime":"12:00"
+    },
+    {
+      "id":"6",
+      "busname":"Sai Travels",
+      "From":"Bhimavaram",
+      "To":"Vijawada",
+      "price":"500",
+      "bustype":"non a.c",
+      "starttime":"9:00",
+      "endtime":"12:00"
+    },
+    {
+      "id":"7",
+      "busname":"Anu Travels",
+      "From":"Vijayawada",
+      "To":"Hyderabad",
+      "price":"700",
+      "bustype":"non a.c",
+      "starttime":"8:00",
+      "endtime":"4:00"
+    },
+    {
+      "id":"8",
+      "busname":"honey Travels",
+      "From":"Chennai",
+      "To":"Hyderabad",
+      "price":"1000",
+      "bustype":" a.c",
+      "starttime":"6:00",
+      "endtime":"5:00"
+    },
+    {
+      "id":"9",
+      "busname":"Avr",
+      "From":"Hyderabad",
+      "To":"Visakapatanam",
+      "price":"1000",
+      "bustype":" a.c",
+      "starttime":"6:00",
+      "endtime":"12:00"
+    },
+    {
+      "id":"9",
+      "busname":"nani",
+      "From":"Dehil",
+      "To":"Benguluru",
+      "price":"100",
+      "bustype":"non a.c",
+      "starttime":"6:00",
+      "endtime":"12:00"
+    },
+    {
+      "id":"10",
+      "busname":"sai",
+      "From":"Dehil",
+      "To":"Benguluru",
+      "price":"100",
+      "bustype":"non a.c",
+      "starttime":"6:00",
+      "endtime":"12:00"
+    }
+
+  ],
+ "traindata": [
+  {
+    "id": "1",
+    "trainname": "Rajdhani Express",
+    "From": "Hyderabad",
+    "To": "Delhi",
+    "price": "1500",
+    "traintype": "AC",
+    "starttime": "6:00",
+    "endtime": "12:00"
+  },
+  {
+    "id": "2",
+    "trainname": "Shatabdi Express",
+    "From": "Delhi",
+    "To": "Hyderabad",
+    "price": "1000",
+    "traintype": "AC",
+    "starttime": "6:00",
+    "endtime": "12:00"
+  },
+  {
+    "id": "3",
+    "trainname": "Garib Rath",
+    "From": "Delhi",
+    "To": "Bengaluru",
+    "price": "500",
+    "traintype": "Non-AC",
+    "starttime": "6:00",
+    "endtime": "12:00"
+  },
+  {
+    "id": "4",
+    "trainname": "Sampark Kranti",
+    "From": "Vijayawada",
+    "To": "Hyderabad",
+    "price": "300",
+    "traintype": "Non-AC",
+    "starttime": "6:00",
+    "endtime": "12:00"
+  },
+  {
+    "id": "5",
+    "trainname": "Duronto Express",
+    "From": "Eluru",
+    "To": "Hyderabad",
+    "price": "400",
+    "traintype": "Non-AC",
+    "starttime": "6:00",
+    "endtime": "12:00"
+  },
+  {
+    "id": "6",
+    "trainname": "Jan Shatabdi",
+    "From": "Bhimavaram",
+    "To": "Vijayawada",
+    "price": "200",
+    "traintype": "Non-AC",
+    "starttime": "9:00",
+    "endtime": "12:00"
+  },
+  {
+    "id": "7",
+    "trainname": "Intercity Express",
+    "From": "Vijayawada",
+    "To": "Hyderabad",
+    "price": "600",
+    "traintype": "Non-AC",
+    "starttime": "8:00",
+    "endtime": "4:00"
+  },
+  {
+    "id": "8",
+    "trainname": "Rajdhani Express",
+    "From": "Chennai",
+    "To": "Hyderabad",
+    "price": "1200",
+    "traintype": "AC",
+    "starttime": "6:00",
+    "endtime": "5:00"
+  },
+  {
+    "id": "9",
+    "trainname": "Garib Rath",
+    "From": "Hyderabad",
+    "To": "Visakhapatnam",
+    "price": "1200",
+    "traintype": "AC",
+    "starttime": "6:00",
+    "endtime": "12:00"
+  },
+  {
+    "id": "10",
+    "trainname": "Sampark Kranti",
+    "From": "Delhi",
+    "To": "Bengaluru",
+    "price": "500",
+    "traintype": "Non-AC",
+    "starttime": "6:00",
+    "endtime": "12:00"
+  }
+],
+"flightdata": [
+  {
+    "id": "1",
+    "flightname": "IndiGo",
+    "From": "Hyderabad",
+    "To": "Delhi",
+    "price": "2500",
+    "flighttype": "Economy",
+    "departuretime": "6:00",
+    "arrivaltime": "8:00"
+  },
+  {
+    "id": "2",
+    "flightname": "SpiceJet",
+    "From": "Delhi",
+    "To": "Hyderabad",
+    "price": "2000",
+    "flighttype": "Economy",
+    "departuretime": "6:00",
+    "arrivaltime": "8:00"
+  },
+  {
+    "id": "3",
+    "flightname": "Air India",
+    "From": "Delhi",
+    "To": "Bengaluru",
+    "price": "1500",
+    "flighttype": "Economy",
+    "departuretime": "6:00",
+    "arrivaltime": "8:00"
+  },
+  {
+    "id": "4",
+    "flightname": "Vistara",
+    "From": "Vijayawada",
+    "To": "Hyderabad",
+    "price": "1200",
+    "flighttype": "Economy",
+    "departuretime": "6:00",
+    "arrivaltime": "7:00"
+  },
+  {
+    "id": "5",
+    "flightname": "GoAir",
+    "From": "Eluru",
+    "To": "Hyderabad",
+    "price": "1000",
+    "flighttype": "Economy",
+    "departuretime": "6:00",
+    "arrivaltime": "7:00"
+  },
+  {
+    "id": "6",
+    "flightname": "AirAsia",
+    "From": "Bhimavaram",
+    "To": "Vijayawada",
+    "price": "800",
+    "flighttype": "Economy",
+    "departuretime": "9:00",
+    "arrivaltime": "10:00"
+  },
+  {
+    "id": "7",
+    "flightname": "IndiGo",
+    "From": "Vijayawada",
+    "To": "Hyderabad",
+    "price": "1500",
+    "flighttype": "Business",
+    "departuretime": "8:00",
+    "arrivaltime": "9:00"
+  },
+  {
+    "id": "8",
+    "flightname": "SpiceJet",
+    "From": "Chennai",
+    "To": "Hyderabad",
+    "price": "2000",
+    "flighttype": "Economy",
+    "departuretime": "6:00",
+    "arrivaltime": "8:00"
+  },
+  {
+    "id": "9",
+    "flightname": "Air India",
+    "From": "Hyderabad",
+    "To": "Visakhapatnam",
+    "price": "1800",
+    "flighttype": "Economy",
+    "departuretime": "6:00",
+    "arrivaltime": "8:00"
+  },
+  {
+    "id": "10",
+    "flightname": "Vistara",
+    "From": "Delhi",
+    "To": "Bengaluru",
+    "price": "1500",
+    "flighttype": "Economy",
+    "departuretime": "6:00",
+    "arrivaltime": "8:00"
+  }
+],
+"cabdata": [
+  {
+    "id": "1",
+    "cabname": "Ola",
+    "location": "Hyderabad",
+    "price": "12",
+    "cabtype": "Micro",
+    "capacity": "4",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger"]
+  },
+  {
+    "id": "2",
+    "cabname": "Uber",
+    "location": "Delhi",
+    "price": "15",
+    "cabtype": "Mini",
+    "capacity": "4",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger"]
+  },
+  {
+    "id": "3",
+    "cabname": "Meru",
+    "location": "Bengaluru",
+    "price": "13",
+    "cabtype": "Sedan",
+    "capacity": "4",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger"]
+  },
+  {
+    "id": "4",
+    "cabname": "Carzonrent",
+    "location": "Vijayawada",
+    "price": "10",
+    "cabtype": "Hatchback",
+    "capacity": "4",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger"]
+  },
+  {
+    "id": "5",
+    "cabname": "Fast Track",
+    "location": "Eluru",
+    "price": "11",
+    "cabtype": "Sedan",
+    "capacity": "4",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger"]
+  },
+  {
+    "id": "6",
+    "cabname": "Avis",
+    "location": "Bhimavaram",
+    "price": "9",
+    "cabtype": "Hatchback",
+    "capacity": "4",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger"]
+  },
+  {
+    "id": "7",
+    "cabname": "Zoomcar",
+    "location": "Hyderabad",
+    "price": "18",
+    "cabtype": "SUV",
+    "capacity": "7",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger", "GPS"]
+  },
+  {
+    "id": "8",
+    "cabname": "Myles",
+    "location": "Delhi",
+    "price": "20",
+    "cabtype": "Luxury",
+    "capacity": "4",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger", "GPS"]
+  },
+  {
+    "id": "9",
+    "cabname": "Easycabs",
+    "location": "Bengaluru",
+    "price": "16",
+    "cabtype": "SUV",
+    "capacity": "7",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger", "GPS"]
+  },
+  {
+    "id": "10",
+    "cabname": "Savaari",
+    "location": "Vijayawada",
+    "price": "14",
+    "cabtype": "Luxury",
+    "capacity": "4",
+    "facilities": ["Air Conditioning", "Music System", "Mobile Charger", "GPS"]
+  }
+],
+"seats": [
+  {
+    "id": "1",
+    "seatnumber": "A1",
+    "seatstatus": "available",
+    "seattype": "window",
+    "busid": "1",
+    "trainid": null
+  },
+  {
+    "id": "2",
+    "seatnumber": "A2",
+    "seatstatus": "available",
+    "seattype": "aisle",
+    "busid": "1",
+    "trainid": null
+  },
+  {
+    "id": "3",
+    "seatnumber": "B1",
+    "seatstatus": "booked",
+    "seattype": "window",
+    "busid": "1",
+    "trainid": null
+  },
+  {
+    "id": "4",
+    "seatnumber": "B2",
+    "seatstatus": "available",
+    "seattype": "aisle",
+    "busid": "1",
+    "trainid": null
+  },
+  {
+    "id": "5",
+    "seatnumber": "C1",
+    "seatstatus": "available",
+    "seattype": "window",
+    "busid": "2",
+    "trainid": null
+  },
+  {
+    "id": "6",
+    "seatnumber": "C2",
+    "seatstatus": "available",
+    "seattype": "aisle",
+    "busid": "2",
+    "trainid": null
+  },
+  {
+    "id": "7",
+    "seatnumber": "S1",
+    "seatstatus": "available",
+    "seattype": "lower",
+    "busid": null,
+    "trainid": "1"
+  },
+  {
+    "id": "8",
+    "seatnumber": "S2",
+    "seatstatus": "available",
+    "seattype": "upper",
+    "busid": null,
+    "trainid": "1"
+  },
+  {
+    "id": "9",
+    "seatnumber": "S3",
+    "seatstatus": "available",
+    "seattype": "lower",
+    "busid": null,
+    "trainid": "1"
+  },
+  {
+    "id": "10",
+    "seatnumber": "S4",
+    "seatstatus": "available",
+    "seattype": "upper",
+    "busid": null,
+    "trainid": "1"
+  }
+
+]
 }
